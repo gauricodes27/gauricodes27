@@ -1,16 +1,13 @@
-## Hi there 👋
+👋 # # Hi, I'm Gauri Vijay Gadadhe
 
-<!--
-**gauricodes27/gauricodes27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔹 About Me
+- B.Tech (IT) student at Usha Mittal Institute of Technology, Mumbai
+- 📊 Passionate about Artificial Intelligence, Data Analaysis and Software development
+  
+## 📌 Skills
+**Languages:** Python, SQL, C, C++  
+**Tools:** Power BI, Excel  
+**Soft Skills:** Communication, Analytical Thinking
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📧 **Email:** gaurigadadhe04@gmail.com  
+🔗 [**LinkedIn**](https://www.linkedin.com/in/gauri-gadadhe)
