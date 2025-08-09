@@ -2,7 +2,7 @@
 
 ## 🔹 About Me
 - B.Tech (IT) student at Usha Mittal Institute of Technology, Mumbai
-- 📊 Passionate about Artificial Intelligence, Data Analaysis and Software development
+- Passionate about Artificial Intelligence, Data Analaysis and Software development
   
 ## 📌 Skills
 **Languages:** Python, SQL, C, C++  
