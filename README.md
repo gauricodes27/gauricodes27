@@ -4,7 +4,7 @@
  ✨Passionate about Artificial Intelligence, Data Analaysis and Software development<br/>
 
 📧 **Email:** gaurigadadhe04@gmail.com  
-🔗 [**LinkedIn**](www.linkedin.com/in/gauri-gadadhe-b08299258)
+🔗 [**LinkedIn**](https://www.linkedin.com/in/gauri-gadadhe-b08299258/)
 
 
 
