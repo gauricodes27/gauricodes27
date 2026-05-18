@@ -1,7 +1,7 @@
 👋 Hi, I'm Gauri Vijay Gadadhe
 
  🎓B.Tech (IT) student at SNDT University, Mumbai<br/>
- ✨Passionate about Artificial Intelligence, Data Analaysis and Software development<br/>
+ ✨Passionate about Artificial Intelligence, Data Analytics and Software development<br/>
  📌 I enjoy building projects that solve real-world problems and continuously improving my coding skills.
 
 📧 **Email:** gaurigadadhe04@gmail.com  
